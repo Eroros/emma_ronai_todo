@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+
+# SQLite database
+db.sqlite3
+
+# VS Code settings
+.vscode/
+
+# PyCharm / JetBrains
+.idea/
+*.iml
